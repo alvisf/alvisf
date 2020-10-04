@@ -20,9 +20,11 @@
 <img align="left" alt="AWS" width="26px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" />
-<img align="left" alt="CloudFormation" width="26px" src="https://xebialabs.com/wp-content/uploads/files/tool-chest/cloudformation.jpg" />
+<img align="left" alt="CloudFormation" width="26px" src="https://www.javainuse.com/awscloudformation-1_1.jpg" />
+<img align="left" alt="RabbitMQ" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
+<img align="left" alt="Kafka" width="26px" src="https://i.pinimg.com/originals/6a/46/51/6a46514d46e0edd07ab4e80c828d60a8.png" />
+<img align="left" alt="CircleCI" width="26px" src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" />
 <img align="left" alt="Nginx" width="26px" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Flask" width="26px" src="https://github.com/mjhea0/awesome-flask/blob/master/flask-logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
