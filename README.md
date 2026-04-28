@@ -73,6 +73,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ALVIS AT ST JOSEPH COLLEGE OF ENG](https://www.youtube.com/watch?v=vGciYImilR0)
+- [Wget to Download Gdrive &lpar;Google Drive&rpar;](https://www.youtube.com/watch?v=tvfpQDsj6o8)
+- [Indoor navigation Demo](https://www.youtube.com/watch?v=AId1MH5baGw)
+- [How to replace Docker with CRI-O](https://www.youtube.com/watch?v=h6qXHe613Wc)
+- [Dynamically provision subdomain in AWS and Flask](https://www.youtube.com/watch?v=GMMzfyUthGI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
