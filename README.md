@@ -1,78 +1,95 @@
-### Hi there, I'm Alvis - aka [alvisf][website] 👋
+### Hi there, I'm Alvis 👋 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvisf/)
 
-## I'm a Developer and DevOps Engineer!
+## Developer & DevOps Engineer
 
-- ☸️ I’m currently learning the world of DevOps
-- 🦋 I’m looking to upskill myself
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Guitar, Bass, piano and drums
+- ☁️ Working with AWS, Kubernetes and modern cloud-native tooling
+- 🛠️ Building automation, infra-as-code and CI/CD pipelines
+- 🎥 Sharing what I learn on [YouTube][youtube] and [Medium][medium]
+- 🎸 Fun fact: I play guitar, bass, piano and drums
 
-### Connect with me:
+---
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+### 🔗 Connect with me
 
-### Languages and Tools:
-
-<img align="left" alt="AWS" width="26px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" />
-<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" />
-<img align="left" alt="CloudFormation" width="26px" src="https://www.javainuse.com/awscloudformation-1_1.jpg" />
-<img align="left" alt="RabbitMQ" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
-<img align="left" alt="Kafka" width="26px" src="https://i.pinimg.com/originals/6a/46/51/6a46514d46e0edd07ab4e80c828d60a8.png" />
-<img align="left" alt="CircleCI" width="26px" src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" />
-<img align="left" alt="Nginx" width="26px" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Flask" width="26px" src="https://github.com/mjhea0/awesome-flask/blob/master/flask-logo.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Website" width="22px" src="https://cdn.simpleicons.org/netlify/00C7B7" />][website]
+&nbsp;
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/FF0000" />][youtube]
+&nbsp;
+[<img align="left" alt="X / Twitter" width="22px" src="https://cdn.simpleicons.org/x/000000" />][twitter]
+&nbsp;
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
+&nbsp;
+[<img align="left" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium/000000" />][medium]
 
 <br />
-<br />
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img alt="Ansible" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img alt="Linux" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Nginx" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img alt="Kafka" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img alt="RabbitMQ" width="36" src="https://cdn.simpleicons.org/rabbitmq/FF6600" />
+  <img alt="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Flask" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img alt="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img alt="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Node.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="MySQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Redis" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub Actions" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+  <img alt="Bash" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Neovim" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/alvisf">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=alvisf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/alvisf">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvisf&layout=compact&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Bastion Host CloudFormation in AWS](https://www.youtube.com/watch?v=g07vt_uHNDA&t=241s)
-- [Deploy FastAPI in AWS EC2 - TAMIL](https://www.youtube.com/watch?v=yr5wqPiajXE&t=5s)
-- [Boto S3 file upload in AWS Tamil](https://www.youtube.com/watch?v=Dc7sFXhn4sI&t=35s)
-- [Kubernetes AWS Basic setup hands-on (தமிழ் - Tamil)](https://www.youtube.com/watch?v=80CV9CoYsEI&t=10s)
-- [Apache Airflow in 5 simple steps (English)](https://www.youtube.com/watch?v=rGOITC9cgCk&t=53s)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCmlZQh9U_eJYH7BlgmpJAXg)
+➡️ [more videos...][youtube]
 
 ---
 
-### 📕 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How to Create a public VPC](https://medium.com/@alvisf0731/how-to-create-a-public-vpc-f0ed85e59296)
-- [CloudFront distribution to restrict access to an Amazon S3 bucket](https://medium.com/@alvisf0731/cloudfront-distribution-to-restrict-access-to-an-amazon-s3-bucket-10be2b434ba2)
-- [Linux Permissions](https://medium.com/@alvisf0731/linux-permissions-89e138e0a951)
-- [S3 compute for AWS cloud practitioner Exam recap](https://medium.com/@alvisf0731/s3-compute-for-aws-cloud-practitioner-bd426ed20d65)
-- [Config SSH Locally](https://medium.com/@alvisf0731/config-ssh-locally-8066b3376f6b)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@alvisf0731)
+➡️ [more posts...][medium]
 
 ---
 
-
 [website]: https://falvis.netlify.app
-[twitter]: https://twitter.com/alvisf11
+[twitter]: https://twitter.com/AlvisF11
 [youtube]: https://www.youtube.com/channel/UCmlZQh9U_eJYH7BlgmpJAXg
 [linkedin]: https://www.linkedin.com/in/alvisf/
-
+[medium]: https://medium.com/@alvisf0731
