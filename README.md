@@ -1,100 +1,66 @@
-### Hi there, I'm Alvis 👋 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvisf/)
+# Hi, I'm Alvis 👋
 
-## Developer & DevOps Engineer
+📍 **India** | 💻 **Software Developer** | ☁️ **Backend & Distributed Systems**
 
-- ☁️ Working with AWS, Kubernetes and modern cloud-native tooling
-- 🛠️ Building automation, infra-as-code and CI/CD pipelines
-- 🎥 Sharing what I learn on [YouTube][youtube] and [Medium][medium]
-- 🎸 Fun fact: I play guitar, bass, piano and drums
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
----
+> Building event-driven, serverless-first backends. Mostly Python + TypeScript on AWS. Obsessed with small CLIs, tidy terminals and making infra disappear.
 
-### 🔗 Connect with me
+## Current Projects
 
-[<img align="left" alt="Website" width="22px" src="https://cdn.simpleicons.org/netlify/00C7B7" />][website]
-&nbsp;
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/FF0000" />][youtube]
-&nbsp;
-[<img align="left" alt="X / Twitter" width="22px" src="https://cdn.simpleicons.org/x/000000" />][twitter]
-&nbsp;
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
-&nbsp;
-[<img align="left" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium/000000" />][medium]
+- 🍅 **[rustodoro](https://github.com/alvisf/rustodoro)** – Terminal Pomodoro timer written in Rust
+- 🍺 **[homebrew-tap](https://github.com/alvisf/homebrew-tap)** – Personal Homebrew tap for my CLI tools
+- 💼 **[JobTracker](https://github.com/alvisf/JobTracker)** – Python app for tracking job applications
+- 🐳 **[Dockerized Flask + Celery + RabbitMQ + Redis](https://github.com/alvisf/Dockerized-Flask-Celery-RabbitMQ-Redis)** – Reference stack for async task processing (17★)
+- ☸️ **[kubernetes_fullstack_deploy](https://github.com/alvisf/kubernetes_fullstact_deploy)** – Full-stack app deployed on K8s (Nginx + Node.js + MongoDB)
+- 🛠️ **[dot-files](https://github.com/alvisf/dot-files)** – My shell, editor and tooling setup
 
-<br />
+### Past Work
 
----
+- 📈 **[EMR-Migration](https://github.com/alvisf/EMR-Migration)** – Tooling for migrating EMR clusters
+- 🐍 **[Flask CRUD + ECS + CI/CD](https://github.com/alvisf/Flask_crud_CD-CI_ECS)** – Flask REST API on ECS with CircleCI
+- 📄 **[quiz_FastApi_Docker_kube](https://github.com/alvisf/quiz_FastApi_Docker_kube)** – FastAPI CRUD on Kubernetes with CircleCI
+- 🎓 **[Published paper](https://ijaresm.com/performance-evaluation-of-top-linux-images-for-container-development-as-a-container-image)** – Performance evaluation of top Linux images for container development
 
-### 🧰 Languages & Tools
+## Certifications
 
-<p align="left">
-  <img alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Kubernetes" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img alt="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img alt="Ansible" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-  <img alt="Linux" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Nginx" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img alt="Kafka" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-  <img alt="RabbitMQ" width="36" src="https://cdn.simpleicons.org/rabbitmq/FF6600" />
-  <img alt="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Flask" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img alt="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img alt="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Node.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="MySQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Redis" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub Actions" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-  <img alt="Bash" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="Neovim" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
-</p>
+![AWS SAA](https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CKA](https://img.shields.io/badge/-Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
----
+## GitHub Activity
 
-### 📊 GitHub Stats
+![GitHub Contribution Graph](https://ghchart.rshah.org/alvisf)
 
-<p align="left">
-  <a href="https://github.com/alvisf">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=alvisf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/alvisf">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvisf&layout=compact&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ALVIS AT ST JOSEPH COLLEGE OF ENG](https://www.youtube.com/watch?v=vGciYImilR0)
-- [Wget to Download Gdrive &lpar;Google Drive&rpar;](https://www.youtube.com/watch?v=tvfpQDsj6o8)
-- [Indoor navigation Demo](https://www.youtube.com/watch?v=AId1MH5baGw)
-- [How to replace Docker with CRI-O](https://www.youtube.com/watch?v=h6qXHe613Wc)
-- [Dynamically provision subdomain in AWS and Flask](https://www.youtube.com/watch?v=GMMzfyUthGI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...][medium]
+➡️ [more posts on Medium](https://medium.com/@falvis1999)
+
+## Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos](https://www.youtube.com/@alvisf4643)
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-falvis.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://falvis.netlify.app)
+[![Medium](https://img.shields.io/badge/-@falvis1999-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@falvis1999)
+[![YouTube](https://img.shields.io/badge/-@alvisf4643-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@alvisf4643)
+[![X](https://img.shields.io/badge/-@AlvisF11-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AlvisF11)
+[![LinkedIn](https://img.shields.io/badge/-alvisf-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvisf)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvisf)
 
 ---
-
-[website]: https://falvis.netlify.app
-[twitter]: https://twitter.com/AlvisF11
-[youtube]: https://www.youtube.com/channel/UCmlZQh9U_eJYH7BlgmpJAXg
-[linkedin]: https://www.linkedin.com/in/alvisf/
-[medium]: https://medium.com/@alvisf0731
